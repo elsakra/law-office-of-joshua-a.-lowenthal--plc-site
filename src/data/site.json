@@ -1,0 +1,100 @@
+{
+  "company": {
+    "name": "Law Office of Joshua A. Lowenthal, PLC",
+    "tagline": "Michigan Business Attorney",
+    "description": "I am a trusted business lawyer and tax lawyer. I have worked with countless entrepreneurs and founders start their business and save on taxes. When working with clients, I take a mindful approach to ensure they receive the highest quality legal services at affordable rates.",
+    "phone": "(855) 393-0846",
+    "email": "legal@joshualowenthal.com",
+    "address": "Serving Clients in Alabama and Michigan",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1769107758/auto-site-builder/Law%20Office%20of%20Joshua%20A.%20Lowenthal%2C%20PLC/image_14.jpg",
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Helping entrepreneurs & founders from inception through the exit of their business idea",
+    "subheadline": "Hello! I am attorney Josh and I am a business lawyer here to help you throughout your entrepreneurial journey. I help founders and small business owners run their business from inception to sale.",
+    "cta": {
+      "label": "Call (855) 393-0846",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://res.cloudinary.com/dil14r8je/image/upload/v1769107758/auto-site-builder/Law%20Office%20of%20Joshua%20A.%20Lowenthal%2C%20PLC/image_14.jpg",
+    "imageOpacity": 50
+  },
+  "sections": {
+    "about": {
+      "headline": "Who am I?",
+      "content": "I am a tax controversy, business, and estate planning attorney with experience in large law and public accounting firms. After earning my law degree, I launched my legal career at a regional public accounting firm focusing on middle-market mergers & acquisitions and tax controversy. I also worked for a Big 4 public accounting firm before practicing in estate planning and probate litigation group of an international law firm headquartered in Metro Detroit. Growing up as the oldest of four siblings and the son of a single-parent, I understand just how busy life can get. For this reason, I created a web-based law firm to allow clients to easily communicate with me on their schedule, regardless of the hour. Also, because I don't have costly office space to maintain, I am able to keep my overhead low and provide my clients high-quality services at reasonable rates.",
+      "image": "https://res.cloudinary.com/dil14r8je/image/upload/v1769107761/auto-site-builder/Law%20Office%20of%20Joshua%20A.%20Lowenthal%2C%20PLC/image_32.jpg",
+      "values": [
+        {
+          "title": "Web-Based Law Firm",
+          "description": "Accessible communication on your schedule, regardless of the hour"
+        },
+        {
+          "title": "Affordable Rates",
+          "description": "Low overhead allows for high-quality services at reasonable rates"
+        },
+        {
+          "title": "Tax & Business Expertise",
+          "description": "Unique blend of tax and business background with Big 4 experience"
+        }
+      ]
+    },
+    "services": {
+      "headline": "Business Law Services"
+    },
+    "team": {
+      "headline": "Our Attorney"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Me"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "Start Your Business",
+        "href": "/contact"
+      },
+      {
+        "label": "Run Your Business",
+        "href": "/contact"
+      },
+      {
+        "label": "Exit Your Business",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Call (855) 393-0846",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Law Office of Joshua A. Lowenthal, PLC. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Law Office of Joshua A. Lowenthal, PLC - Michigan Business Attorney",
+    "description": "I am a trusted business lawyer and tax lawyer. I have worked with countless entrepreneurs and founders start their business and save on taxes. When working with clients, I take a mindful approach to ensure they receive the highest quality legal services at affordable rates. Call me today at 248-522-6272 to schedule a free consult!"
+  },
+  "resources": [
+    {
+      "title": "Free Consultation",
+      "description": "Schedule a complimentary consultation to discuss your legal needs and explore your options.",
+      "href": "/contact",
+      "cta": "Schedule now"
+    }
+  ],
+  "theme": "light",
+  "vibe": "community"
+}
